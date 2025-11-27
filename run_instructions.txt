@@ -1,0 +1,19 @@
+TUBA KHAN — AIR MINDMAP Run Instructions
+
+1) Create and activate a Python virtual environment (PowerShell):
+   python -m venv .venv
+   .\\.venv\\Scripts\\Activate.ps1
+
+2) Install dependencies:
+   pip install -r requirements.txt
+
+3) Run application:
+   python main.py
+
+4) Run in demo mode:
+   python main.py --demo-mode
+
+5) Run tests:
+   pytest tests/test_gestures.py
+
+6) Saved files will be in the `output/` folder.

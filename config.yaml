@@ -1,0 +1,30 @@
+# TUBA KHAN — AIR MINDMAP configuration
+camera_index: 0
+canvas_width: 1280
+canvas_height: 720
+
+history_length: 64
+trail_length: 40
+
+# Gesture thresholds and confirmation frames
+pinch_threshold: 0.05        # normalized distance
+pinch_confirm_frames: 6
+point_confirm_frames: 4
+tap_speed_threshold: 0.035
+tap_confirm_frames: 3
+circle_min_sweep_degrees: 250
+circle_min_points: 20
+circle_confirm_frames: 6
+stretch_distance_threshold: 0.12
+stretch_confirm_frames: 8
+
+# Node drawing
+node_radius: 36
+node_spawn_frames: 12
+node_pulse_frames: 18
+
+debounce_ms: 200
+
+output_dir: "output"
+autosave_interval: 30    # seconds between autosaves
+autosave_filename: "mindmap_autosave.json"
