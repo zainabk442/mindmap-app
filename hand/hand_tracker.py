@@ -1,6 +1,7 @@
 """
 HandTracker for TUBA KHAN — AIR MINDMAP
 Provides MediaPipe Hands capture, smoothing, and history buffers.
+Detects hand using MediaPipe
 """
 import collections
 import time

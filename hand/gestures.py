@@ -1,6 +1,7 @@
 """
 Gesture detectors for TUBA KHAN — AIR MINDMAP
 Provides functions to detect pinch, point, circle, two-hand stretch, and tap.
+This is your AI + detection layer
 """
 import math
 import time

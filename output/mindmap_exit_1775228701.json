@@ -1,0 +1,190 @@
+{
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "title": "Idea",
+      "position": [
+        980,
+        308
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n2": {
+      "id": "n2",
+      "title": "Corner",
+      "position": [
+        1023,
+        185
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n3": {
+      "id": "n3",
+      "title": "Corner",
+      "position": [
+        963,
+        446
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n4": {
+      "id": "n4",
+      "title": "Corner",
+      "position": [
+        536,
+        396
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n5": {
+      "id": "n5",
+      "title": "Corner",
+      "position": [
+        510,
+        266
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n6": {
+      "id": "n6",
+      "title": "Cluster",
+      "position": [
+        758,
+        323
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n7": {
+      "id": "n7",
+      "title": "Corner",
+      "position": [
+        1023,
+        185
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n8": {
+      "id": "n8",
+      "title": "Corner",
+      "position": [
+        963,
+        446
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n9": {
+      "id": "n9",
+      "title": "Corner",
+      "position": [
+        390,
+        608
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n10": {
+      "id": "n10",
+      "title": "Corner",
+      "position": [
+        405,
+        319
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n11": {
+      "id": "n11",
+      "title": "Cluster",
+      "position": [
+        695,
+        389
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n12": {
+      "id": "n12",
+      "title": "Corner",
+      "position": [
+        1023,
+        185
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n13": {
+      "id": "n13",
+      "title": "Corner",
+      "position": [
+        963,
+        446
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n14": {
+      "id": "n14",
+      "title": "Corner",
+      "position": [
+        390,
+        608
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n15": {
+      "id": "n15",
+      "title": "Corner",
+      "position": [
+        394,
+        313
+      ],
+      "children": [],
+      "collapsed": false
+    },
+    "n16": {
+      "id": "n16",
+      "title": "Cluster",
+      "position": [
+        692,
+        388
+      ],
+      "children": [],
+      "collapsed": false
+    }
+  },
+  "edges": [
+    [
+      "n6",
+      "n4"
+    ],
+    [
+      "n6",
+      "n5"
+    ],
+    [
+      "n16",
+      "n10"
+    ],
+    [
+      "n16",
+      "n15"
+    ],
+    [
+      "n16",
+      "n4"
+    ],
+    [
+      "n16",
+      "n5"
+    ]
+  ]
+}

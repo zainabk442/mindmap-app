@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mindmap Upload</title>
+</head>
+<body>
+    <h2>Upload Image for Processing</h2>
+
+<!--    <form action="/upload" method="post" enctype="multipart/form-data">-->
+<!--        <input type="file" name="image" required>-->
+<!--        <button type="submit">Upload</button>-->
+    <form action="/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="image" required>
+    <button type="submit">Upload</button>
+</form>
+
+{% if image %}
+    <h3>Processed Image:</h3>
+    <img src="{{ image }}" width="300">
+{% endif %}
+    </form>
+</body>
+</html>

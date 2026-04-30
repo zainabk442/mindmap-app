@@ -1,0 +1,15 @@
+{
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "title": "Idea",
+      "position": [
+        580,
+        308
+      ],
+      "children": [],
+      "collapsed": false
+    }
+  },
+  "edges": []
+}
